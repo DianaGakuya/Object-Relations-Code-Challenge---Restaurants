@@ -42,8 +42,10 @@ Run the test script:
 bash
 code
 python test.py
-Class Implementation
-Customer
+
+
+# Class Implementation
+## Customer
 The Customer class represents a customer and includes methods for retrieving and managing customer information, such as names and reviews.
 
 ## Restaurant
