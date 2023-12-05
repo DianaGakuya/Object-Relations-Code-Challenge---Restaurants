@@ -61,5 +61,5 @@ The test.py script includes a comprehensive set of test cases to verify the corr
 Feel free to contribute to this project by reporting issues, suggesting improvements, or creating pull requests. Your feedback is valuable!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
 
